@@ -1,9 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "categories": [
+        {
+            "id": 1,
+            "name": "Historical",
+            "desc": "Ethiopia has a fascinating history that goes back thousands of years. It was home to important civilizations like the Axumite Empire and legendary figures like the Queen of Sheba. The rock-hewn churches in Lalibela are incredible to see, as are the medieval castles in Gondar. Ethiopia is also known as the birthplace of coffee and has its own unique language and alphabet. ",
+            "cover_pic_url": "https://s3-alpha-sig.figma.com/img/eacb/fcd8/a7c7058fa227c7d66633b74f9326dc3e?Expires=1688342400&Signature=jl0x2hK2hS7mMmMgiw8vTGH7rypiQkkkZ1lKyOT5O3sYB8nXX3l3SSY5WH~T-KpCAooJJWsyjm56f1U7svo2G0LVxkmeYg6cPUttlZRXnEjeNitCgZ7h6ZCUXGYbGgfOmTrdSoxtJSzJplydw~xkO4ZVT7rjJ9zAnAsDlxC73A30yMiyfjP0gToDDCoJow33JR0K8uHeiP9Q3MQRbHlVj2YJY3hkLQCGOIxPt9Hs1vMXyZuJ0t6qttc2JkWMDjpLpaUPZarkqjZw867LVp10SUMafs~-oLQK1V~7~rLiId9Xwl21elMLYtQ2VhNGznyXNvnyv-6w~y5TXRJBm3fs7g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+            "id": 2,
+            "name": "Cultural",
+            "desc": "Ethiopia has a fascinating history that goes back thousands of years. It was home to important civilizations like the Axumite Empire and legendary figures like the Queen of Sheba. The rock-hewn churches in Lalibela are incredible to see, as are the medieval castles in Gondar. Ethiopia is also known as the birthplace of coffee and has its own unique language and alphabet. ",
+            "cover_pic_url": "https://s3-alpha-sig.figma.com/img/3744/e7f9/8a1e75f618d14c9034fcb0d35dea1b55?Expires=1688342400&Signature=QVCsyInQb6JVQlyU4Echbs9v5UnJQl9QBgUEtrNSATt8oLTkHpkWamZfJXSSVXhZVI23FGjnVDjLSxbUeDmj9J3QZxV1tHHV27-XV7YI2EZJavmqPlgz3uZ21pjR~DIVZ84feoedRknBZvWQamwR8zDxYQaV9rXsrTGHzxKh-issikAS3VzuRO~Tx836FpocVNmuW-W5D809jINVBkCCr510rldjdQgHoTgILBVt3O24PYe-VTGTXWOe4kD58LRefZmoH0rVJ2KSx4E4ovURpp5yCY4fncoa8Oh1pp3aZw4jHbtgIuD2P1lI9m8-yTa96xPP9OdC4UANcVjYbKL2gg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+            "id": 3,
+            "name": "National Parks",
+            "desc": "Ethiopia has a fascinating history that goes back thousands of years. It was home to important civilizations like the Axumite Empire and legendary figures like the Queen of Sheba. The rock-hewn churches in Lalibela are incredible to see, as are the medieval castles in Gondar. Ethiopia is also known as the birthplace of coffee and has its own unique language and alphabet. ",
+            "cover_pic_url": "https://s3-alpha-sig.figma.com/img/3744/e7f9/8a1e75f618d14c9034fcb0d35dea1b55?Expires=1688342400&Signature=QVCsyInQb6JVQlyU4Echbs9v5UnJQl9QBgUEtrNSATt8oLTkHpkWamZfJXSSVXhZVI23FGjnVDjLSxbUeDmj9J3QZxV1tHHV27-XV7YI2EZJavmqPlgz3uZ21pjR~DIVZ84feoedRknBZvWQamwR8zDxYQaV9rXsrTGHzxKh-issikAS3VzuRO~Tx836FpocVNmuW-W5D809jINVBkCCr510rldjdQgHoTgILBVt3O24PYe-VTGTXWOe4kD58LRefZmoH0rVJ2KSx4E4ovURpp5yCY4fncoa8Oh1pp3aZw4jHbtgIuD2P1lI9m8-yTa96xPP9OdC4UANcVjYbKL2gg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+            "id": 4,
+            "name": "Natural Artifact",
+            "desc": "Ethiopia has a fascinating history that goes back thousands of years. It was home to important civilizations like the Axumite Empire and legendary figures like the Queen of Sheba. The rock-hewn churches in Lalibela are incredible to see, as are the medieval castles in Gondar. Ethiopia is also known as the birthplace of coffee and has its own unique language and alphabet. ",
+            "cover_pic_url": "https://s3-alpha-sig.figma.com/img/3744/e7f9/8a1e75f618d14c9034fcb0d35dea1b55?Expires=1688342400&Signature=QVCsyInQb6JVQlyU4Echbs9v5UnJQl9QBgUEtrNSATt8oLTkHpkWamZfJXSSVXhZVI23FGjnVDjLSxbUeDmj9J3QZxV1tHHV27-XV7YI2EZJavmqPlgz3uZ21pjR~DIVZ84feoedRknBZvWQamwR8zDxYQaV9rXsrTGHzxKh-issikAS3VzuRO~Tx836FpocVNmuW-W5D809jINVBkCCr510rldjdQgHoTgILBVt3O24PYe-VTGTXWOe4kD58LRefZmoH0rVJ2KSx4E4ovURpp5yCY4fncoa8Oh1pp3aZw4jHbtgIuD2P1lI9m8-yTa96xPP9OdC4UANcVjYbKL2gg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+            "id": 5,
+            "name": "Museums",
+            "desc": "Ethiopia has a fascinating history that goes back thousands of years. It was home to important civilizations like the Axumite Empire and legendary figures like the Queen of Sheba. The rock-hewn churches in Lalibela are incredible to see, as are the medieval castles in Gondar. Ethiopia is also known as the birthplace of coffee and has its own unique language and alphabet. ",
+            "cover_pic_url": "https://s3-alpha-sig.figma.com/img/3744/e7f9/8a1e75f618d14c9034fcb0d35dea1b55?Expires=1688342400&Signature=QVCsyInQb6JVQlyU4Echbs9v5UnJQl9QBgUEtrNSATt8oLTkHpkWamZfJXSSVXhZVI23FGjnVDjLSxbUeDmj9J3QZxV1tHHV27-XV7YI2EZJavmqPlgz3uZ21pjR~DIVZ84feoedRknBZvWQamwR8zDxYQaV9rXsrTGHzxKh-issikAS3VzuRO~Tx836FpocVNmuW-W5D809jINVBkCCr510rldjdQgHoTgILBVt3O24PYe-VTGTXWOe4kD58LRefZmoH0rVJ2KSx4E4ovURpp5yCY4fncoa8Oh1pp3aZw4jHbtgIuD2P1lI9m8-yTa96xPP9OdC4UANcVjYbKL2gg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        }
+    ],
+    "category": []
 }
