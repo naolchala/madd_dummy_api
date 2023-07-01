@@ -31,5 +31,109 @@
             "cover_pic_url": "https://visitethiopia.travel/wp-content/uploads/2021/04/gettyimages-629408647-2048x2048-2-scaled.jpg"
         }
     ],
-    "category": []
+    "popular": [
+        {
+            "id": 1,
+            "title": "Lalibela",
+            "latitude": 12.030505800344867,
+            "longitude": 39.04843568884003,
+            "region": "Amhara",
+            "distance": 611,
+            "descriptions": [
+                {
+                    "language": "en",
+                    "content": "Lalibela, known as the \"New Jerusalem\" of Ethiopia, is a remarkable complex consisting of eleven churches and two chapels. This labyrinthine architectural wonder was excavated by King Lalibela in the 12th century and continues to be in active use to this day. Considered the \"Eighth Wonder of the World,\" Lalibela is an awe-inspiring testament to the Ethiopian church-excavating tradition that dates back to the arrival of Christianity around 350 AD. The process of creating these churches involved painstakingly carving them into the rock flake by flake. It is estimated that it would have taken approximately 40,000 man-years to complete this extraordinary undertaking. \n When exploring Lalibela, visitors are treated to a sight unlike any other. Many of the churches in Lalibela are subterranean monoliths that were created in two stages. First, artisans would hand-cut a quadrangle of trenches, reaching depths of up to 15 meters, into a horizontal rock surface. Only after this preparatory step could they begin excavating the actual church, which was carved into a massive freestanding central block enclosed by the trenches. Among the remarkable churches is Bete Medhane Alem, the world's largest rock-hewn excavation. This incredible structure is supported by 36 internal and 36 external pillars. Another iconic church in Lalibela is Bete Giyorgis, a free-standing monolith shaped like a cross and dedicated to Saint George. Legend has it that Saint George was so overjoyed with the church that he rode his horse over the entrance tunnel, leaving behind hoof prints that can still be seen today. Lalibela's significance extends beyond its architectural marvels; it is also a living shrine, as the ancient stone churches have been actively used since their excavation almost nine centuries ago. Additionally, the surrounding countryside of Lalibela is adorned with other ancient churches, including Yemrehanna Kristos, a superb example of Aksumite architecture constructed in the 11th century, featuring alternating layers of wood and gypsum-faced granite."
+                },
+                {
+                    "language": "am",
+                    "content": "የኢትዮጵያ \"አዲሲቷ እየሩሳሌም\" በመባል የሚታወቀው ላሊበላ አስራ አንድ አብያተ ክርስቲያናት እና ሁለት አብያተ ክርስቲያናትን ያቀፈ ድንቅ ግቢ ነው። ይህ የላብራቶሪ ስነ-ህንፃ ድንቅ በ12ኛው ክፍለ ዘመን በንጉስ ላሊበላ ተቆፍሮ እስከ ዛሬ ድረስ በንቃት ጥቅም ላይ ውሏል። የዓለም ስምንተኛው ድንቅ ተብሎ ሲታሰብ ላሊበላ በ350 ዓ.ም አካባቢ ክርስትና መምጣት ከጀመረበት ጊዜ ጀምሮ የነበረውን የኢትዮጵያ ቤተ ክርስቲያን ቁፋሮ ወግ እጅግ አስደናቂ ምስክር ነው። እነዚህን አብያተ ክርስቲያናት የመፍጠሩ ሂደት በትጋት ወደ ቋጥኝ ፍላጻ በመቅረጽ ነበር። ይህን ያልተለመደ ስራ ለማጠናቀቅ ወደ 40,000 የሚጠጉ የሰው አመታት ይፈጅ እንደነበር ይገመታል። \n ላሊበላን ሲቃኙ ጎብኚዎች ከማንም በተለየ መልኩ ይታያሉ። ብዙዎቹ የላሊበላ አብያተ ክርስቲያናት በሁለት ደረጃዎች የተፈጠሩ ከመሬት በታች ያሉ አሀዳዊ ገዳማት ናቸው። በመጀመሪያ፣ የእጅ ባለሞያዎች እስከ 15 ሜትር የሚደርስ ጥልቀት ያለው አራት ማዕዘን ቅርጽ ያለው ቦይ ይቆርጣሉ፣ ወደ አግድም አለት ገጽ። ከዚህ መሰናዶ እርምጃ በኋላ ብቻ በመንኮራኩሮች በተዘጋ ግዙፍ ማዕከላዊ ብሎክ የተቀረጸውን ትክክለኛውን ቤተ ክርስቲያን ቁፋሮ መጀመር የሚችሉት። ከአስደናቂዎቹ አብያተ ክርስቲያናት መካከል ቤተ መድኃኔዓለም በዓለም ትልቁ ከዓለት ተፈልፍሎ የተሠራ ነው። ይህ የማይታመን መዋቅር በ 36 ውስጣዊ እና 36 ውጫዊ ምሰሶዎች የተደገፈ ነው. የላሊበላ ሌላዋ ድንቅ ቤተክርስቲያን ቤተ ጊዮርጊስ ነፃ የሆነች የመስቀል ቅርጽ ያለው እና ለቅዱስ ጊዮርጊስ የተሰጠች ነጠላ ዜማ ነች። በአፈ ታሪክ እንደሚነገረው ቅዱስ ጊዮርጊስ በቤተክርስቲያኑ እጅግ ደስ ብሎት በፈረሱ መግቢያ ዋሻ ላይ ተቀምጦ እስከ ዛሬ ድረስ የሚታዩትን የሰኮና ህትመቶችን ትቶ ነበር። የላሊበላ ፋይዳ ከሥነ ሕንፃ ድንቆች በላይ ነው፤ ጥንታዊዎቹ የድንጋይ አብያተ ክርስቲያናት ወደ ዘጠኝ መቶ ዓመታት ገደማ ከተቆፈሩበት ጊዜ ጀምሮ በንቃት ጥቅም ላይ ስለሚውሉ ሕያው መቅደስ ነው. በተጨማሪም በዙሪያው ያለው የላሊበላ ገጠራማ በ11ኛው ክፍለ ዘመን የተሰራውን የአክሱማይት ኪነ-ህንጻ ጥበብ ምሳሌ የሆነውን የምርሃና ክርስቶስን ጨምሮ ሌሎች ጥንታዊ አብያተ ክርስቲያናት ያጌጠ ሲሆን ተለዋጭ የእንጨት እና የጂፕሰም ፊት ለፊት ያለው ግራናይት"
+                }
+            ],
+            "photos": [
+                "https://images.unsplash.com/flagged/photo-1572644973628-e9be84915d59?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "https://visitethiopia.travel/wp-content/uploads/2021/03/Lal.png"
+            ],
+            "rating": 4.0
+        },
+        {
+            "id": 2,
+            "title": "Aksum",
+            "latitude": 14.134430142670073,
+            "longitude": 38.74790122958056,
+            "region": "Tigray",
+            "distance": 1145,
+            "descriptions": [
+                {
+                    "language": "en",
+                    "content": "Aksum, a UNESCO World Heritage site since 1980, is an exceptional place in Ethiopia. Considered as sacred as Jerusalem, as old as Rome, and as historical as Constantinople, Aksum mirrors the glorious period of Ethiopia. It served as the capital of the Aksumite Kingdom, the dominant trade entity in the Horn of Africa for over a millennium prior to the rise of Islam. The ruins of palaces, obelisks, mausoleums, churches, megalithic erected stones, coins, and manuscripts bear witness to the golden period of the Aksumite Empire. This remarkable city holds immense importance, housing the most valuable and sacred relics such as the Tablet of Moses or the Ark of the Covenant, and is even believed to be the final resting place of one of the 'Three Wise Men'. One of the highlights in Aksum is the Cathedral of Tsion Maryam (Mary of Zion), Ethiopia's oldest church, established in the 4th century. Modeled after Solomon's Temple in Jerusalem, the original church was unfortunately destroyed by the warrior queen Gudit in the 10th century, but remnants of one of the original 12 temples can still be seen. Emperor Fasilidas rebuilt the church in the 17th-century Gondarine style, and it features a beautifully painted interior. Another significant site in Aksum is the Chapel of the Tablet, believed to be where the biblical Ark of the Covenant resides. According to legend, this holiest of Old Testament artifacts was brought to Ethiopia by Emperor Menelik I, who was the son of the Queen of Sheba and King Solomon of Jerusalem, approximately 3,000 years ago. Additionally, a pre-Christian Stelae Field, located opposite Maryam Tsion, showcases the tallest solid stone blocks ever erected in ancient times. Among them, a colossal 33-meter granite megalith attributed to King Remhai from the 3rd century stands toppled and shattered during its erection. Adjacent to it, two standing stelae of similar stature to a ten-storey building rise to heights of 25 and 23 meters. Visitors can explore the Aksum Archaeological Museum, which houses a wealth of ancient artifacts discovered in and around Aksum. The collection ranges from Aksumite coins dating back to the 3rd century to imported glasses from Egypt. Other notable sites of interest include May Shum, also known as the Queen of Sheba's pool, the ruined Dongar Palace, a trilingual tablet inscribed in Sabaean, Ge'ez, and Greek by King Ezana, as well as the 6th-century tombs of Kaleb and Gebre Meskel.Aksum truly encapsulates the rich historical and cultural heritage of Ethiopia, attracting visitors with its fascinating ruins, religious significance, and captivating ancient treasures."
+                },
+                {
+                    "language": "am",
+                    "content": "ከ1980 ጀምሮ በዩኔስኮ የዓለም ቅርስነት የተመዘገቡት አክሱም በኢትዮጵያ ልዩ ቦታ ነው። እንደ እየሩሳሌም የተቀደሰች፣ እንደ ሮም ያረጀች፣ እና እንደ ቁስጥንጥንያ ታሪካዊ ተደርጋ የምትቆጠር፣ አክሱም የኢትዮጵያን የከበረች ዘመን ያንጸባርቃል። ከእስልምና መነሳት በፊት ከአንድ ሺህ አመት በላይ በአፍሪካ ቀንድ ዋና የንግድ አካል የሆነችው የአክሱማይት ግዛት ዋና ከተማ ሆና አገልግላለች። የቤተ መንግሥቶች፣ የሐውልቶች፣ የመቃብር ቦታዎች፣ የአብያተ ክርስቲያናት ፍርስራሾች፣ ሜጋሊቲክ የተገነቡ ድንጋዮች፣ ሳንቲሞች እና የእጅ ጽሑፎች የአክሱማይት ግዛት ወርቃማ ጊዜን ይመሰክራሉ። ይህች አስደናቂ ከተማ እጅግ ዋጋ ያለው እና እንደ የሙሴ ጽላት ወይም የቃል ኪዳኑ ታቦት ያሉ ንዋያተ ቅድሳትን የያዘች ትልቅ ቦታ ትይዛለች፣ እና እንዲያውም ከ'ሦስቱ ጠቢባን' የአንዱ የመጨረሻ ማረፊያ እንደሆነች ይታመናል። በአክሱም ከተማ ከታዩት ስፍራዎች አንዱ በ4ኛው መቶ ክፍለ ዘመን የተመሰረተው የኢትዮጵያ አንጋፋ ቤተክርስቲያን የጽዮን ማርያም (ማርያም ጽዮን) ካቴድራል ነው። በእየሩሳሌም የሚገኘው የሰሎሞን ቤተመቅደስ አምሳያ የሆነው ዋናው ቤተክርስትያን በሚያሳዝን ሁኔታ በጦረኛዋ ንግሥት ጉዲት በ10ኛው ክፍለ ዘመን ፈርሳለች ነገር ግን ከመጀመሪያዎቹ 12 ቤተ መቅደሶች የአንዱ ቅሪት አሁንም ይታያል። አጼ ፋሲለደስ ቤተክርስቲያኑን በ17ኛው ክፍለ ዘመን በጎንደር አኳኋን መልሰው ያነፁት ሲሆን በውስጡም በውበቱ የተሳለ ነው። ሌላው በአክሱም ውስጥ ትልቅ ቦታ የሚሰጠው የጽላተ ጸሎት ጸሎት ነው፣ ይህም የመጽሐፍ ቅዱስ የቃል ኪዳኑ ታቦት የሚኖርበት እንደሆነ ይታመናል። በአፈ ታሪክ መሰረት፣ ከ3,000 ዓመታት ገደማ በፊት ይህ የብሉይ ኪዳን ቅዱሳን ቅርሶች የንግሥተ ሳባ ልጅ እና የኢየሩሳሌም ንጉሥ ሰሎሞን ልጅ በነበሩት ቀዳማዊ አጼ ምኒልክ ወደ ኢትዮጵያ ያመጡት ናቸው። በተጨማሪም ከቅድመ ክርስትና ስቴሊ ሜዳ በማርያም ጽዮን ፊት ለፊት የሚገኘው በጥንት ጊዜ የተሰሩትን ረጅሞቹን ጠንካራ የድንጋይ ጡቦች ያሳያል። ከነሱ መካከል በ3ኛው ክፍለ ዘመን በንጉስ ሬምሃይ እጅ የተነገረው ግዙፍ 33 ሜትር ግራናይት ሜጋሊት በሚገነባበት ጊዜ ወድቆ ወድቋል። ከጎኑ፣ ባለ አሥር ፎቅ ሕንፃ ተመሳሳይ ቁመት ያላቸው ሁለት ቋሚ ሐውልቶች 25 እና 23 ሜትር ከፍታ አላቸው። በአክሱም እና አካባቢው የተገኙ ጥንታዊ ቅርሶችን የያዘውን የአክሱም አርኪኦሎጂካል ሙዚየም ጎብኚዎች ማሰስ ይችላሉ። ስብስቡ ከ 3 ኛው ክፍለ ዘመን ጀምሮ ከግብፅ እስከ አስመጧቸው መነጽሮች ድረስ ከአክሱማይት ሳንቲሞች ይደርሳል። ሌሎች ትኩረት የሚስቡ ቦታዎች ሜይ ሹም ፣ የንግሥተ ሳባ ገንዳ በመባል የሚታወቁት ፣ የፈራረሰው ዶንጋር ቤተ መንግሥት ፣ በሳባውያን ፣ በግእዝ እና በግሪክ በንጉሥ ኢዛና የተፃፈ የሶስት ቋንቋ ጽላት ፣ እንዲሁም በ6ኛው መቶ ክፍለ ዘመን የካሌብ መቃብሮች ይገኙበታል። እና ገብረ መስቀል። አክሱም የኢትዮጵያን የበለጸጉ ታሪካዊና ባህላዊ ቅርሶች በሚያስደንቅ ፍርስራሹ፣ ሃይማኖታዊ ጠቀሜታው እና ጥንታዊ ሀብቶቿን በመሳብ ጎብኝዎችን ይስባል።"
+                }
+            ],
+            "photos": [
+                "https://www.istockphoto.com/photos/axum",
+                "https://i.pinimg.com/564x/f0/e4/ff/f0e4ffc4fff1931d077159b25f6c8559.jpg"
+            ],
+            "rating": 4.0
+        },
+        {
+            "id": 1,
+            "title": "Unity Park",
+            "latitude": 9.027091,
+            "longitude": 38.755573,
+            "region": "Addis Ababa",
+            "distance": 0,
+            "descriptions": [
+                {
+                    "language": "en",
+                    "content": "Unity Park in Addis Ababa is a magnificent park and national heritage site. It is a symbol of unity and pride for the people of Ethiopia. The park offers a beautiful blend of nature, history, and culture. Visitors can explore lush green gardens, historical monuments, royal palaces, and museums that showcase the rich heritage of Ethiopia. Unity Park serves as a reminder of the country's diverse history and its journey towards unity and progress. It is a must-visit destination for both locals and tourists."
+                }
+            ],
+            "photos": [
+                "https://www.istockphoto.com/photos/unity-park-addis-ababa",
+                "https://i.pinimg.com/564x/79/da/b4/79dab40b0cbb6938e0da96e8d652df55.jpg"
+            ],
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "title": "Jimma Aba Jifar",
+            "latitude": 7.682770,
+            "longitude": 36.837110,
+            "region": "Oromia",
+            "distance": 346,
+            "descriptions": [
+                {
+                    "language": "en",
+                    "content": "Jimma Aba Jifar, located in the Oromia region of Ethiopia, is a historically significant town. It is named after Aba Jifar, a legendary local ruler who played a prominent role in the region's history. The town offers a glimpse into Ethiopia's past with its traditional architecture, bustling markets, and cultural heritage. Visitors can explore the Jimma Aba Jifar Palace, which served as the seat of power for Aba Jifar and his descendants. The palace displays artifacts, royal regalia, and provides insights into the region's rich history and traditions. Jimma Aba Jifar is a captivating destination for history enthusiasts and those interested in experiencing the unique culture of the Oromo people."
+                }
+            ],
+            "photos": [
+                "https://www.istockphoto.com/photos/jimma-aba-jifar",
+                "https://i.pinimg.com/564x/ef/6e/8b/ef6e8b1c3af38e9daa84a5b5e77dd8e1.jpg"
+            ],
+            "rating": 4.2
+        },
+        {
+            "id": 4,
+            "title": "Ras Dashen",
+            "latitude": 13.573376,
+            "longitude": 38.402550,
+            "region": "Amhara",
+            "distance": 837,
+            "descriptions": [
+                {
+                    "language": "en",
+                    "content": "Ras Dashen, located in the Amhara region of Ethiopia, is the highest mountain in the country and the fourth highest in Africa. It is a challenging and rewarding destination for adventurous hikers and nature enthusiasts. Scaling the summit of Ras Dashen offers breathtaking panoramic views of the surrounding mountain ranges and valleys. The region is known for its diverse flora and fauna, including endemic species. The trek to Ras Dashen takes visitors through stunning landscapes, including alpine meadows, rugged terrains, and picturesque villages. It is an unforgettable experience for those seeking adventure and natural beauty."
+                }
+            ],
+            "photos": [
+                "https://www.istockphoto.com/photos/ras-dashen",
+                "https://i.pinimg.com/564x/19/8d/45/198d454429f29db21f2e4b7ff2041f11.jpg"
+            ],
+            "rating": 4.9
+        }
+    ]
 }
