@@ -157,8 +157,9 @@
                         }
                     ],
                     "photos": [
-                        "https://example.com/axum_photo_1.jpg",
-                        "https://example.com/axum_photo_2.jpg"
+                        "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892609/EducationHub/photos/king-ezanas-stela.jpg",
+                        "https://media.istockphoto.com/id/186914973/photo/obelisk-in-the-aksum-kingdom-ethiopia.jpg?s=612x612&w=0&k=20&c=xcINJxnz71uvfROg0uby9QrRlyNeQesLkWr5JLnXmGE=",
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rome_Stele.jpg/1200px-Rome_Stele.jpg"
                     ],
                     "recommendations": [
                         {
@@ -190,8 +191,10 @@
                         }
                     ],
                     "photos": [
-                        "https://example.com/lalibela_photo_1.jpg",
-                        "https://example.com/lalibela_photo_2.jpg"
+                        "https://furtherafrica.com/content-files/uploads/2022/04/saint_lalibela_church.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/1200px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg",
+                        "https://media.istockphoto.com/id/697529054/photo/the-church-of-saint-george-in-lalibela.jpg?s=612x612&w=0&k=20&c=j3ua9h08NmxB9tym1qyP4Y378OAn1famGva6dA9CZO8=",
+                        "https://www-images.christianitytoday.com/images/125270.jpg?h=337&w=600"
                     ],
                     "recommendations": [
                         {
@@ -223,8 +226,10 @@
                         }
                     ],
                     "photos": [
-                        "https://example.com/gondar_photo_1.jpg",
-                        "https://example.com/gondar_photo_2.jpg"
+                        "https://brilliant-ethiopia.imgix.net/fasil-ghebbi-royal-enclosure-gondar-5.jpg?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=580&h=480&q=40",
+                        "https://www.steppestravel.com/app/uploads/2019/07/fassil-ghebbi-fortress-gondar-ethiopia-1024x768.jpg",
+                        "https://brilliant-ethiopia.imgix.net/Gondar-Banner.JPG?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=1200&h=0&q=30",
+                        "https://worldofwanderlust.com/wp-content/uploads/2019/11/Gondar-2-1024x683.jpg"
                     ],
                     "recommendations": [
                         {
@@ -256,8 +261,9 @@
                         }
                     ],
                     "photos": [
-                        "https://example.com/harar_jugol_photo_1.jpg",
-                        "https://example.com/harar_jugol_photo_2.jpg"
+                        "https://www.fanabc.com/english/wp-content/uploads/2022/10/Harar.jpg",
+                        "https://www.historyhit.com/app/uploads/fly-images/5166514/shutterstock_Harar-Walls-1-690x388.jpg?x87969",
+                        "https://media-cdn.tripadvisor.com/media/photo-s/1a/87/b1/86/harar-jugol-the-fortified.jpg"
                     ],
                     "recommendations": [
                         {
@@ -289,8 +295,8 @@
                         }
                     ],
                     "photos": [
-                        "https://example.com/yeha_photo_1.jpg",
-                        "https://example.com/yeha_photo_2.jpg"
+                        "https://thumbs.dreamstime.com/z/sacrificial-altar-great-temple-moon-bc-yeha-tigray-region-oldest-standing-structure-ethiopia-198902702.jpg",
+                        "https://static.wixstatic.com/media/35edd9_abf2fbcc74bf4222b7a8be0be1d7be5e~mv2.jpg/v1/fill/w_780,h_548,al_c,q_85/35edd9_abf2fbcc74bf4222b7a8be0be1d7be5e~mv2.jpg"
                     ],
                     "recommendations": [
                         {
