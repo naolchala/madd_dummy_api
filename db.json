@@ -312,179 +312,6 @@
         },
         {
             "id": 2,
-            "name": "National Parks",
-            "desc": "Embark on an adventure through the diverse landscapes and wildlife of Ethiopia's national parks.",
-            "cover_pic_url": "https://example.com/national_parks_cover.jpg",
-            "places": [
-                {
-                    "id": 6,
-                    "title": "Simien Mountains National Park",
-                    "latitude": 13.1657,
-                    "longitude": 38.2179,
-                    "region": "Amhara",
-                    "distance": 0.0,
-                    "descriptions": [
-                        {
-                            "language": "en",
-                            "content": "Simien Mountains National Park is a UNESCO World Heritage site known for its stunning landscapes and unique wildlife."
-                        }
-                    ],
-                    "photos": [
-                        "https://example.com/simien_mountains_photo_1.jpg",
-                        "https://example.com/simien_mountains_photo_2.jpg"
-                    ],
-                    "recommendations": [
-                        {
-                            "type": "hotel",
-                            "name": "Mountain Lodge",
-                            "desc": "Experience the beauty of the Simien Mountains from this cozy mountain lodge.",
-                            "pricing": 100
-                        },
-                        {
-                            "type": "restaurant",
-                            "name": "Mountain View Restaurant",
-                            "desc": "Enjoy delicious meals while overlooking the breathtaking scenery of the national park.",
-                            "pricing": 50
-                        }
-                    ],
-                    "rating": 4.7
-                },
-                {
-                    "id": 7,
-                    "title": "Bale Mountains National Park",
-                    "latitude": 6.8179,
-                    "longitude": 39.5386,
-                    "region": "Oromia",
-                    "distance": 0.0,
-                    "descriptions": [
-                        {
-                            "language": "en",
-                            "content": "Bale Mountains National Park is home to diverse ecosystems, including Afro-alpine moorlands and wildlife such as Ethiopian wolves."
-                        }
-                    ],
-                    "photos": [
-                        "https://example.com/bale_mountains_photo_1.jpg",
-                        "https://example.com/bale_mountains_photo_2.jpg"
-                    ],
-                    "recommendations": [
-                        {
-                            "type": "hotel",
-                            "name": "Bale Mountain Lodge",
-                            "desc": "Immerse yourself in the wilderness of the Bale Mountains at this eco-friendly lodge.",
-                            "pricing": 130
-                        },
-                        {
-                            "type": "restaurant",
-                            "name": "Wilderness Grill",
-                            "desc": "Savor a variety of grilled dishes prepared with locally sourced ingredients.",
-                            "pricing": 60
-                        }
-                    ],
-                    "rating": 4.6
-                },
-                {
-                    "id": 8,
-                    "title": "Awash National Park",
-                    "latitude": 9.1000,
-                    "longitude": 40.8500,
-                    "region": "Oromia",
-                    "distance": 0.0,
-                    "descriptions": [
-                        {
-                            "language": "en",
-                            "content": "Awash National Park is a vast wilderness area known for its diverse wildlife and the spectacular Awash River waterfall."
-                        }
-                    ],
-                    "photos": [
-                        "https://example.com/awash_national_park_photo_1.jpg",
-                        "https://example.com/awash_national_park_photo_2.jpg"
-                    ],
-                    "recommendations": [
-                        {
-                            "type": "hotel",
-                            "name": "Safari Camp",
-                            "desc": "Stay in a comfortable tented camp and experience the thrill of a safari adventure.",
-                            "pricing": 110
-                        },
-                        {
-                            "type": "restaurant",
-                            "name": "River View Restaurant",
-                            "desc": "Dine with a picturesque view of the Awash River and enjoy a variety of local delicacies.",
-                            "pricing": 45
-                        }
-                    ],
-                    "rating": 4.3
-                },
-                {
-                    "id": 9,
-                    "title": "Mago National Park",
-                    "latitude": 5.2167,
-                    "longitude": 35.6667,
-                    "region": "Southern Nations, Nationalities, and Peoples",
-                    "distance": 0.0,
-                    "descriptions": [
-                        {
-                            "language": "en",
-                            "content": "Mago National Park is a wilderness area known for its unique ecosystems and the presence of diverse wildlife, including elephants and buffalo."
-                        }
-                    ],
-                    "photos": [
-                        "https://example.com/mago_national_park_photo_1.jpg",
-                        "https://example.com/mago_national_park_photo_2.jpg"
-                    ],
-                    "recommendations": [
-                        {
-                            "type": "hotel",
-                            "name": "Wilderness Lodge",
-                            "desc": "Experience the beauty of Mago National Park while staying in comfortable lodge accommodations.",
-                            "pricing": 120
-                        },
-                        {
-                            "type": "restaurant",
-                            "name": "Savannah Grill",
-                            "desc": "Enjoy grilled specialties inspired by the flavors of the African savannah.",
-                            "pricing": 55
-                        }
-                    ],
-                    "rating": 4.5
-                },
-                {
-                    "id": 10,
-                    "title": "Omo National Park",
-                    "latitude": 6.0000,
-                    "longitude": 35.0000,
-                    "region": "Southern Nations, Nationalities, and Peoples",
-                    "distance": 0.0,
-                    "descriptions": [
-                        {
-                            "language": "en",
-                            "content": "Omo National Park is a remote wilderness area that offers opportunities for wildlife viewing and exploring tribal cultures."
-                        }
-                    ],
-                    "photos": [
-                        "https://example.com/omo_national_park_photo_1.jpg",
-                        "https://example.com/omo_national_park_photo_2.jpg"
-                    ],
-                    "recommendations": [
-                        {
-                            "type": "hotel",
-                            "name": "Tribal Camp",
-                            "desc": "Experience the rich cultural heritage of the tribes in the region while staying in a traditional camp.",
-                            "pricing": 90
-                        },
-                        {
-                            "type": "restaurant",
-                            "name": "Tribal Fusion",
-                            "desc": "Indulge in a fusion of traditional and contemporary flavors inspired by the local tribal cuisines.",
-                            "pricing": 40
-                        }
-                    ],
-                    "rating": 4.4
-                }
-            ]
-        },
-        {
-            "id": 3,
             "name": "Cultural Attractions",
             "desc": "Discover Ethiopia's vibrant cultural heritage by visiting these diverse cultural attractions.",
             "cover_pic_url": "https://example.com/cultural_attractions_cover.jpg",
@@ -653,6 +480,179 @@
                         }
                     ],
                     "rating": 4.7
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "National Parks",
+            "desc": "Embark on an adventure through the diverse landscapes and wildlife of Ethiopia's national parks.",
+            "cover_pic_url": "https://example.com/national_parks_cover.jpg",
+            "places": [
+                {
+                    "id": 6,
+                    "title": "Simien Mountains National Park",
+                    "latitude": 13.1657,
+                    "longitude": 38.2179,
+                    "region": "Amhara",
+                    "distance": 0.0,
+                    "descriptions": [
+                        {
+                            "language": "en",
+                            "content": "Simien Mountains National Park is a UNESCO World Heritage site known for its stunning landscapes and unique wildlife."
+                        }
+                    ],
+                    "photos": [
+                        "https://example.com/simien_mountains_photo_1.jpg",
+                        "https://example.com/simien_mountains_photo_2.jpg"
+                    ],
+                    "recommendations": [
+                        {
+                            "type": "hotel",
+                            "name": "Mountain Lodge",
+                            "desc": "Experience the beauty of the Simien Mountains from this cozy mountain lodge.",
+                            "pricing": 100
+                        },
+                        {
+                            "type": "restaurant",
+                            "name": "Mountain View Restaurant",
+                            "desc": "Enjoy delicious meals while overlooking the breathtaking scenery of the national park.",
+                            "pricing": 50
+                        }
+                    ],
+                    "rating": 4.7
+                },
+                {
+                    "id": 7,
+                    "title": "Bale Mountains National Park",
+                    "latitude": 6.8179,
+                    "longitude": 39.5386,
+                    "region": "Oromia",
+                    "distance": 0.0,
+                    "descriptions": [
+                        {
+                            "language": "en",
+                            "content": "Bale Mountains National Park is home to diverse ecosystems, including Afro-alpine moorlands and wildlife such as Ethiopian wolves."
+                        }
+                    ],
+                    "photos": [
+                        "https://example.com/bale_mountains_photo_1.jpg",
+                        "https://example.com/bale_mountains_photo_2.jpg"
+                    ],
+                    "recommendations": [
+                        {
+                            "type": "hotel",
+                            "name": "Bale Mountain Lodge",
+                            "desc": "Immerse yourself in the wilderness of the Bale Mountains at this eco-friendly lodge.",
+                            "pricing": 130
+                        },
+                        {
+                            "type": "restaurant",
+                            "name": "Wilderness Grill",
+                            "desc": "Savor a variety of grilled dishes prepared with locally sourced ingredients.",
+                            "pricing": 60
+                        }
+                    ],
+                    "rating": 4.6
+                },
+                {
+                    "id": 8,
+                    "title": "Awash National Park",
+                    "latitude": 9.1000,
+                    "longitude": 40.8500,
+                    "region": "Oromia",
+                    "distance": 0.0,
+                    "descriptions": [
+                        {
+                            "language": "en",
+                            "content": "Awash National Park is a vast wilderness area known for its diverse wildlife and the spectacular Awash River waterfall."
+                        }
+                    ],
+                    "photos": [
+                        "https://example.com/awash_national_park_photo_1.jpg",
+                        "https://example.com/awash_national_park_photo_2.jpg"
+                    ],
+                    "recommendations": [
+                        {
+                            "type": "hotel",
+                            "name": "Safari Camp",
+                            "desc": "Stay in a comfortable tented camp and experience the thrill of a safari adventure.",
+                            "pricing": 110
+                        },
+                        {
+                            "type": "restaurant",
+                            "name": "River View Restaurant",
+                            "desc": "Dine with a picturesque view of the Awash River and enjoy a variety of local delicacies.",
+                            "pricing": 45
+                        }
+                    ],
+                    "rating": 4.3
+                },
+                {
+                    "id": 9,
+                    "title": "Mago National Park",
+                    "latitude": 5.2167,
+                    "longitude": 35.6667,
+                    "region": "Southern Nations, Nationalities, and Peoples",
+                    "distance": 0.0,
+                    "descriptions": [
+                        {
+                            "language": "en",
+                            "content": "Mago National Park is a wilderness area known for its unique ecosystems and the presence of diverse wildlife, including elephants and buffalo."
+                        }
+                    ],
+                    "photos": [
+                        "https://example.com/mago_national_park_photo_1.jpg",
+                        "https://example.com/mago_national_park_photo_2.jpg"
+                    ],
+                    "recommendations": [
+                        {
+                            "type": "hotel",
+                            "name": "Wilderness Lodge",
+                            "desc": "Experience the beauty of Mago National Park while staying in comfortable lodge accommodations.",
+                            "pricing": 120
+                        },
+                        {
+                            "type": "restaurant",
+                            "name": "Savannah Grill",
+                            "desc": "Enjoy grilled specialties inspired by the flavors of the African savannah.",
+                            "pricing": 55
+                        }
+                    ],
+                    "rating": 4.5
+                },
+                {
+                    "id": 10,
+                    "title": "Omo National Park",
+                    "latitude": 6.0000,
+                    "longitude": 35.0000,
+                    "region": "Southern Nations, Nationalities, and Peoples",
+                    "distance": 0.0,
+                    "descriptions": [
+                        {
+                            "language": "en",
+                            "content": "Omo National Park is a remote wilderness area that offers opportunities for wildlife viewing and exploring tribal cultures."
+                        }
+                    ],
+                    "photos": [
+                        "https://example.com/omo_national_park_photo_1.jpg",
+                        "https://example.com/omo_national_park_photo_2.jpg"
+                    ],
+                    "recommendations": [
+                        {
+                            "type": "hotel",
+                            "name": "Tribal Camp",
+                            "desc": "Experience the rich cultural heritage of the tribes in the region while staying in a traditional camp.",
+                            "pricing": 90
+                        },
+                        {
+                            "type": "restaurant",
+                            "name": "Tribal Fusion",
+                            "desc": "Indulge in a fusion of traditional and contemporary flavors inspired by the local tribal cuisines.",
+                            "pricing": 40
+                        }
+                    ],
+                    "rating": 4.4
                 }
             ]
         }
